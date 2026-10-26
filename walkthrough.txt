@@ -1,0 +1,114 @@
+FROM FOOTAGE TO BROADCAST
+Adobe Premiere Pro · 8½-minute walkthrough
+
+Use your own interview, reporter narration, and 5–8 supporting shots. Editing, full playback, and rendering take additional time. Example settings are for school practice; follow your teacher or station delivery requirements.
+
+1. ORGANIZE & IMPORT (0:00–0:50)
+Keep the project and its media together before making your first cut.
+
+1) Gather the files. Create a story folder with Media, Audio, Graphics, and Exports subfolders. Copy your footage into it; keep original camera folder structures intact.
+
+2) Create the project. Open Premiere → New Project. Name it FoodDrive_Lastname and save it inside your story folder.
+
+3) Import and sort. Use File → Import for ordinary clips, or Window → Media Browser for camera-card media. In the Project panel, create bins for Interviews, B-roll, Audio, and Graphics. Sort the imported items.
+
+CHECK: Your Project panel shows the media, with no Media Offline warnings.
+DESK NOTE: Importing links to your files. Moving or renaming them later can break those links.
+
+---
+
+2. SET THE SEQUENCE (0:50–1:40)
+A sequence is the timeline that holds your edit. Set it for the program receiving your story.
+
+1) Check the assignment settings. Find the required frame size, frame rate, scan type, and audio layout. Use your teacher’s sequence preset when one is provided.
+
+2) Make the sequence. Choose File → New → Sequence. Select the matching preset and inspect its settings. For this practice example only: 1920 × 1080, 29.97 fps, progressive, stereo, 48 kHz audio.
+
+3) Name and verify. Name it FoodDrive_Package. Check Sequence → Sequence Settings. If asked to change settings when adding footage, keep the established delivery settings.
+
+CHECK: The sequence matches the assignment, rather than an arbitrary camera clip.
+DESK NOTE: The example settings are for a school practice package. A station may require a different format, frame rate, or channel layout.
+
+---
+
+3. BUILD THE STORY SPINE (1:40–2:55)
+Start with the reporter narration and interview sound bites. Pictures come next.
+
+1) Choose the best sound bite. Double-click an interview in the Project panel to open the Source Monitor. Play it; press I for the start and O for the end of one complete, accurate thought.
+
+2) Add it to the timeline. Drag the marked selection into the sequence. Keep interview picture on V1 and its linked audio on A1. Put reporter narration on A2 and arrange both to follow your script.
+
+3) Tighten the rough cut. Use the Selection tool (V) to drag clip edges and remove dead air. Close gaps carefully; keep Linked Selection on so interview picture and audio stay together. Aim for 45–60 seconds.
+
+CHECK: Listen without watching: the opening, key fact, interview, and ending make sense.
+DESK NOTE: A sound bite is a short interview excerpt. Shorten pauses, but preserve the speaker’s meaning and context.
+
+---
+
+4. COVER WITH B-ROLL (2:55–3:55)
+B-roll is supporting video. It illustrates the narration and can cover a visible interview cut.
+
+1) Choose relevant shots. Mark short selections in the Source Monitor: a wide shot of the drive, a medium shot of volunteers, and details of donated items.
+
+2) Layer pictures above the story. Drag the Source Monitor’s Drag Video Only icon to V2 above the narration or an interview cut. This adds the picture without replacing your interview audio.
+
+3) Build a visual sequence. Trim with V and alternate wide, medium, and detail views. Start with roughly 3–5 seconds per shot, then adjust to the action. Keep natural sound on A3 where it helps.
+
+CHECK: No unintended black gaps; every shot supports the words underneath.
+DESK NOTE: Higher video tracks cover lower ones. Do not use unrelated pictures that misrepresent what the interview describes.
+
+---
+
+5. MAKE VOICES CLEAR (3:55–5:05)
+Viewers need to understand every word. Music is optional; clear speech is essential.
+
+1) Balance speech first. Open Window → Essential Sound. Select interview and narration clips and tag them Dialogue. Use Auto-Match as a starting point, then listen and adjust clip volume for consistent speech.
+
+2) Clean up gently. If needed, use a little Reduce Noise under Repair. Compare before and after. Lower natural sound or optional music under speech; use short audio fades to soften abrupt starts and stops.
+
+3) Watch and measure. Play the full sequence with headphones and the Audio Meters visible. Prevent clipping at 0 dBFS. For station delivery, meter the complete mix with Loudness Meter and meet the supplied integrated loudness and true-peak limits.
+
+CHECK: Voices are clear and steady; background sound never masks a word.
+DESK NOTE: Auto-Match is not a broadcast compliance check. Loudness targets and channel mapping come from the teacher or receiving station.
+
+---
+
+6. ADD NAMES & POLISH (5:05–6:05)
+Add a simple speaker ID, then make neighboring shots feel like the same scene.
+
+1) Identify the speaker. Position the playhead over the interview. Select the Type tool (T), click in the Program Monitor, and type the verified name and role.
+
+2) Style and time the title. Select the graphic clip and open Window → Properties. Use readable, high-contrast text and a background if needed. Position it inside the Program Monitor’s Safe Margins. Trim its duration so viewers can read it.
+
+3) Match the pictures. Select each clip and open Window → Lumetri Color. In Basic Correction, adjust white balance and exposure gently. Compare adjoining shots; keep skin tones natural and highlights from clipping.
+
+CHECK: Names and titles are correct, readable, and do not cover important action.
+DESK NOTE: A lower third identifies someone. Captions represent spoken audio; add and proof them separately if your assignment requires them.
+
+---
+
+7. WATCH BEFORE EXPORT (6:05–7:05)
+Save the project, then watch the sequence from its very first frame to its last.
+
+1) Check the story. Confirm facts, names, context, permissions, and any required credits. Listen for cut-off words, repeated phrases, clicks, and sudden volume changes.
+
+2) Check the picture and time. Look for black gaps, flash frames, jump cuts, stretched images, and titles that disappear too quickly. Make sure the ending is clean and the duration meets the assignment.
+
+3) Check captions and save. If captions are required, use Window → Text to create or import them, correct every line, and check timing. Confirm whether delivery needs a sidecar file or burned-in text. Save again.
+
+CHECK: You have watched the whole sequence and fixed each problem you found.
+DESK NOTE: Keep transitions simple. A straight cut is usually enough for a news package.
+
+---
+
+8. EXPORT & VERIFY (7:05–8:30)
+Use the receiving program’s export preset. Then check the file you actually exported.
+
+1) Open Export. Select the finished sequence, then File → Export → Media. Set a filename and your Exports folder. Choose Entire Sequence as the export range unless the assignment specifies otherwise.
+
+2) Match delivery requirements. For a school MP4 preview, choose H.264 and a high-quality preset matching the sequence. Confirm frame size, frame rate, progressive scan, audio channels, and 48 kHz audio. Station masters may require a different codec or container; use their specification.
+
+3) Export, then watch the file. Select Export and wait for completion. Open the exported file in a separate player. Watch and listen from beginning to end; confirm duration, picture, titles, audio, and required captions before handing it in.
+
+CHECK: The exported file plays correctly and meets the assigned delivery specification.
+DESK NOTE: An .mp4 is a useful school preview, but it is not automatically a station-ready broadcast master. Verify the actual exported mix against any station loudness limits.
